@@ -6,6 +6,7 @@ in Icinga2 could tell you if recording is in progress.
 
 # Example
 
+![Icinga not tuned](/icinga-not-tuned.png)
 ![Icinga tuned](/icinga-tuned.png)
 
 # Requirements
