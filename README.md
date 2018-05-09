@@ -4,6 +4,10 @@ This plugin will allow you to check if your HD Homerun is currently tuned to any
 be useful if you want to upgrade for example a Plex server that is currently recording.  One glance
 in Icinga2 could tell you if recording is in progress.
 
+# Example
+
+![Icinga tuned](/icinga-tuned.png)
+
 # Requirements
 
 * hdhomerun-config
