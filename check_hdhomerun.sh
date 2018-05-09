@@ -38,7 +38,7 @@ if [ "$TUNER0_CH" == "none" ] && [ "$TUNER1_CH" == "none" ]; then
 	exit 0
 fi
 if [ "$TUNER0_CH" != "none" ] || [ "$TUNER1_CH" != "none" ]; then
-	echo "Channel currently tuned:"
+	echo "Channel currently tuned!"
 	if [ "$TUNER0_CH" != "none" ]; then
 		echo "Tuner 0: $TUNER0_CH"
 	fi
