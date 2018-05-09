@@ -42,7 +42,7 @@ object HostGroup "hdhomerun" {
   display_name = "hdhomerun"
 }
 
-apply Service "HDHomerun  Tuner" {
+apply Service "HDHomerun Tuner" {
 	import "generic-service"
 	check_command = "check-hdhomerun"
 	
